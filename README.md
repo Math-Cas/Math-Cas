@@ -1,5 +1,7 @@
 ## Prazer! Me chamo Matheus, estou cursando o primeiro semestre em ADS (Analise e Desenvolvimento de Sistemas) no IFSP. Postarei aqui minhas evoluções e conquistas! 
 
+<br><div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Cas&layout=compact&langs_count=20&theme=dracula&border_color=ff6e96" width="50%" ></div><br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
